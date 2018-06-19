@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RPi_Zero_pHat_Template-cache)(type Legacy)(uri C:/Users/MaxAli/Documents/GitHub/ORBALOON/HW/RPi_Zero/RPi_Zero_pHat_Template-cache.lib)(options "")(descr ""))
+  (lib (name ORBALOON-rescue)(type Legacy)(uri ${KIPRJMOD}/ORBALOON-rescue.lib)(options "")(descr ""))
+)
