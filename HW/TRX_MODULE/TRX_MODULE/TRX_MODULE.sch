@@ -70,7 +70,7 @@ F 3 "" H 10250 3350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial CON1
+L TRX_MODULE-rescue:Conn_Coaxial-Connector CON1
 U 1 1 5B00761C
 P 10400 2100
 F 0 "CON1" H 10499 2076 50  0000 L CNN
@@ -92,7 +92,7 @@ F 3 "" H 10400 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_Coaxial CON2
+L TRX_MODULE-rescue:Conn_Coaxial-Connector CON2
 U 1 1 5B01E849
 P 10400 3800
 F 0 "CON2" H 10499 3776 50  0000 L CNN
@@ -1670,7 +1670,7 @@ CAN_TX
 Text Label 6050 1975 1    40   ~ 0
 CAN_RX
 $Comp
-L interface:MCP2561-E-SN U4
+L TRX_MODULE-rescue:MCP2561-E-SN-interface U4
 U 1 1 5B2E06B6
 P 2375 2200
 F 0 "U4" H 2725 2550 50  0000 C CNN
