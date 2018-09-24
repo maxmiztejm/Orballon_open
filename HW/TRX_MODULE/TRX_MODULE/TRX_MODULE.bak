@@ -2221,10 +2221,6 @@ $EndComp
 Wire Wire Line
 	1050 3900 1100 3900
 Connection ~ 1100 3900
-Wire Wire Line
-	1700 3800 1600 3800
-Wire Wire Line
-	1700 4000 1600 4000
 Text GLabel 1500 5850 0    50   Input ~ 0
 +5V_A
 Text GLabel 1500 5950 0    50   Input ~ 0
